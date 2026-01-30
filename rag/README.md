@@ -1,4 +1,4 @@
-# Toyota Support Assistant - RAG Customer Support System
+# Toyota Assistant - RAG Customer Support System
 
 ## Images
 
@@ -24,7 +24,7 @@
 
 ![Customer support ticket.png](screenshots/Customer%20support%20ticket.png) 
 
-https://github.com/bakhridinova/advanced-generative-ai-capstone-project/issues/1
+https://github.com/bakhridinova/advanced-generative-ai-capstone-project/issues/2
 
 ![Customer support ticket console.png](screenshots/Customer%20support%20ticket%20console.png)
 
